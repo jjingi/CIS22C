@@ -1,0 +1,37 @@
+Breadth-First Traversal: 57.12 Dollar	23.44 Dollar	87.43 Dollar	18.36 Dollar	44.55 Dollar	68.98 Dollar	111.22 Dollar	11.00 Dollar	20.21 Dollar	36.18 Dollar	48.48 Dollar	77.77 Dollar	101.00 Dollar	543.21 Dollar	1.00 Dollar	21.00 Dollar	51.00 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Inorder Traversal: 1.00 Dollar	11.00 Dollar	18.36 Dollar	20.21 Dollar	21.00 Dollar	23.44 Dollar	36.18 Dollar	44.55 Dollar	48.48 Dollar	51.00 Dollar	57.12 Dollar	68.98 Dollar	77.77 Dollar	87.43 Dollar	101.00 Dollar	111.22 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	
+
+Preorder Traversal: 57.12 Dollar	23.44 Dollar	18.36 Dollar	11.00 Dollar	1.00 Dollar	20.21 Dollar	21.00 Dollar	44.55 Dollar	36.18 Dollar	48.48 Dollar	51.00 Dollar	87.43 Dollar	68.98 Dollar	77.77 Dollar	111.22 Dollar	101.00 Dollar	543.21 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Postorder Traversal: 1.00 Dollar	11.00 Dollar	21.00 Dollar	20.21 Dollar	18.36 Dollar	36.18 Dollar	51.00 Dollar	48.48 Dollar	44.55 Dollar	23.44 Dollar	77.77 Dollar	68.98 Dollar	101.00 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	111.22 Dollar	87.43 Dollar	57.12 Dollar	
+
+Invalid constructor -1 is ignored
+Error: "1" is Invalid input(Ignored)
+
+1.01 Not Found
+
+Breadth-First Traversal: 57.12 Dollar	23.44 Dollar	87.43 Dollar	18.36 Dollar	44.55 Dollar	68.98 Dollar	111.22 Dollar	11.00 Dollar	20.21 Dollar	36.18 Dollar	48.48 Dollar	77.77 Dollar	101.00 Dollar	543.21 Dollar	21.00 Dollar	51.00 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Inorder Traversal: 11.00 Dollar	18.36 Dollar	20.21 Dollar	21.00 Dollar	23.44 Dollar	36.18 Dollar	44.55 Dollar	48.48 Dollar	51.00 Dollar	57.12 Dollar	68.98 Dollar	77.77 Dollar	87.43 Dollar	101.00 Dollar	111.22 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	
+
+Preorder Traversal: 57.12 Dollar	23.44 Dollar	18.36 Dollar	11.00 Dollar	20.21 Dollar	21.00 Dollar	44.55 Dollar	36.18 Dollar	48.48 Dollar	51.00 Dollar	87.43 Dollar	68.98 Dollar	77.77 Dollar	111.22 Dollar	101.00 Dollar	543.21 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Postorder Traversal: 11.00 Dollar	21.00 Dollar	20.21 Dollar	18.36 Dollar	36.18 Dollar	51.00 Dollar	48.48 Dollar	44.55 Dollar	23.44 Dollar	77.77 Dollar	68.98 Dollar	101.00 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	111.22 Dollar	87.43 Dollar	57.12 Dollar	
+
+Breadth-First Traversal: 57.12 Dollar	23.44 Dollar	87.43 Dollar	18.36 Dollar	44.55 Dollar	68.98 Dollar	111.22 Dollar	11.00 Dollar	20.21 Dollar	36.18 Dollar	48.48 Dollar	77.77 Dollar	101.00 Dollar	543.21 Dollar	21.00 Dollar	51.00 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Inorder Traversal: 11.00 Dollar	18.36 Dollar	20.21 Dollar	21.00 Dollar	23.44 Dollar	36.18 Dollar	44.55 Dollar	48.48 Dollar	51.00 Dollar	57.12 Dollar	68.98 Dollar	77.77 Dollar	87.43 Dollar	101.00 Dollar	111.22 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	
+
+Preorder Traversal: 57.12 Dollar	23.44 Dollar	18.36 Dollar	11.00 Dollar	20.21 Dollar	21.00 Dollar	44.55 Dollar	36.18 Dollar	48.48 Dollar	51.00 Dollar	87.43 Dollar	68.98 Dollar	77.77 Dollar	111.22 Dollar	101.00 Dollar	543.21 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Postorder Traversal: 11.00 Dollar	21.00 Dollar	20.21 Dollar	18.36 Dollar	36.18 Dollar	51.00 Dollar	48.48 Dollar	44.55 Dollar	23.44 Dollar	77.77 Dollar	68.98 Dollar	101.00 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	111.22 Dollar	87.43 Dollar	57.12 Dollar	
+
+Breadth-First Traversal: 57.12 Dollar	23.44 Dollar	87.43 Dollar	18.36 Dollar	44.55 Dollar	68.98 Dollar	111.22 Dollar	11.00 Dollar	20.21 Dollar	36.18 Dollar	48.48 Dollar	77.77 Dollar	101.00 Dollar	543.21 Dollar	21.00 Dollar	51.00 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Inorder Traversal: 11.00 Dollar	18.36 Dollar	20.21 Dollar	21.00 Dollar	23.44 Dollar	36.18 Dollar	44.55 Dollar	48.48 Dollar	51.00 Dollar	57.12 Dollar	68.98 Dollar	77.77 Dollar	87.43 Dollar	101.00 Dollar	111.22 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	
+
+Preorder Traversal: 57.12 Dollar	23.44 Dollar	18.36 Dollar	11.00 Dollar	20.21 Dollar	21.00 Dollar	44.55 Dollar	36.18 Dollar	48.48 Dollar	51.00 Dollar	87.43 Dollar	68.98 Dollar	77.77 Dollar	111.22 Dollar	101.00 Dollar	543.21 Dollar	345.67 Dollar	251.00 Dollar	151.00 Dollar	
+
+Postorder Traversal: 11.00 Dollar	21.00 Dollar	20.21 Dollar	18.36 Dollar	36.18 Dollar	51.00 Dollar	48.48 Dollar	44.55 Dollar	23.44 Dollar	77.77 Dollar	68.98 Dollar	101.00 Dollar	151.00 Dollar	251.00 Dollar	345.67 Dollar	543.21 Dollar	111.22 Dollar	87.43 Dollar	57.12 Dollar	
+
